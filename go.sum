@@ -1,0 +1,4 @@
+github.com/bradfitz/gomemcache v0.0.0-20230124162541-5f7a7d875746 h1:wAIE/kN63Oig1DdOzN7O+k4AbFh2cCJoKMFXrwRJtzk=
+github.com/bradfitz/gomemcache v0.0.0-20230124162541-5f7a7d875746/go.mod h1:H0wQNHz2YrLsuXOZozoeDmnHXkNCRmMW0gwFWDfEZDA=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
